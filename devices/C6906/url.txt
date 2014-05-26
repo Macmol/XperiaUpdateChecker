@@ -1,0 +1,1 @@
+http://fuas.sonymobile.com/fuas/services/updates?clientName=PCC&clientVersion=3.0&lang=es-MX&model=C6906&tac_mc=35809205&swId=1272-6084&swVer=14.1.G.2.257&fsVariant=AMERICAS-LTE&cdfVer=R7A&buildVariant=USER&clientCertType=live&updateFormat=delta,image&channel=cable&cdfId=

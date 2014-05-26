@@ -1,0 +1,1 @@
+http://fuas.sonymobile.com/fuas/services/updates?clientName=PCC&clientVersion=3.0&lang=zh-CN&model=L50t&tac_mc=35278706&swId=1279-0637&swVer=17.1.E.1.122&fsVariant=CMCC-SGLTE&cdfVer=R23A&buildVariant=USER&clientCertType=live&updateFormat=delta,image&channel=cable&cdfId=

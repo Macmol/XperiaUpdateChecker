@@ -1,0 +1,2 @@
+http://fuas.sonymobile.com/fuas/services/updates?clientName=PCC&clientVersion=3.0&lang=en-US&model=LT25i&tac_mc=35510105&swId=1264-2336&swVer=9.0.D.0.457&fsVariant=GLOBAL-LTE&cdfVer=R1I&buildVariant=USER&clientCertType=live&updateFormat=delta,image&channel=cable&cdfId=
+http://fuas.sonymobile.com/fuas/services/updates?clientName=PCC&clientVersion=3.0&lang=hu-HU&model=LT25i&tac_mc=35510105&swId=1264-2336&swVer=9.1.A.1.140&fsVariant=GLOBAL-LTE&cdfId=1268-8838&cdfVer=R4I&buildVariant=USER&clientCertType=live&updateFormat=delta,image&channel=cable

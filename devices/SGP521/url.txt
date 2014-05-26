@@ -1,0 +1,2 @@
+http://fuas.sonymobile.com/fuas/services/updates?clientName=PCC&clientVersion=3.0&lang=ru-RU&model=SGP521&tac_mc=35294506&swId=1278-4804&swVer=17.1.A.2.55&fsVariant=GLOBAL-LTE&cdfVer=R7A&buildVariant=USER&clientCertType=live&updateFormat=delta,image&channel=cable&cdfId=
+http://fuas.sonymobile.com/fuas/services/updates?clientName=PCC&clientVersion=3.0&lang=ru-RU&model=SGP512&tac_mc=11003000&swId=1278-4514&swVer=17.1.A.2.36&fsVariant=GLOBAL-WIFI32G&cdfId=1282-4184&cdfVer=R6A&buildVariant=USER&clientCertType=live&updateFormat=delta,image&channel=cable

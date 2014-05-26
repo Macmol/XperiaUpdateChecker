@@ -1,0 +1,1 @@
+http://fuas.sonymobile.com/fuas/services/updates?clientName=PCC&clientVersion=3.0&lang=en-US&model=C2104&tac_mc=35660505&swId=1269-5420&swVer=15.0.A.1.31&fsVariant=WORLD-a&cdfVer=R1A&buildVariant=USER&clientCertType=live&updateFormat=delta,image&channel=cable&cdfId=

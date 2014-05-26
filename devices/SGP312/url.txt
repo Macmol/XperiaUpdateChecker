@@ -1,0 +1,1 @@
+http://fuas.sonymobile.com/fuas/services/updates?clientName=PCC&clientVersion=3.0&lang=ru-RU&model=SGP312&tac_mc=11000000&swId=1269-4875&swVer=10.1.C.0.370&fsVariant=GLOBAL-WIFI32G&cdfVer=R1A&buildVariant=USER&clientCertType=live&updateFormat=delta,image&channel=cable&cdfId=

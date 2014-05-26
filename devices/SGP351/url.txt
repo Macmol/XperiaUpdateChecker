@@ -1,0 +1,1 @@
+http://fuas.sonymobile.com/fuas/services/updates?clientName=PCC&clientVersion=3.0&lang=en-US&model=SGP351&tac_mc=35758905&swId=1271-4097&swVer=10.1.1.A.1.253&fsVariant=AMERICAS-LTE&cdfVer=R1A&buildVariant=USER&clientCertType=live&updateFormat=delta,image&channel=cable&cdfId=

@@ -1,0 +1,1 @@
+http://fuas.sonymobile.com/fuas/services/updates?clientName=PCC&clientVersion=3.0&lang=en-US&model=C6606&tac_mc=35676805&swId=1269-5309&swVer=10.1.1.B.0.131&fsVariant=TMOUS-LTE&cdfVer=R17A&buildVariant=USER&clientCertType=live&updateFormat=delta,image&channel=cable&cdfId=

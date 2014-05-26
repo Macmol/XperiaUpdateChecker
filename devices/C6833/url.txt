@@ -1,0 +1,2 @@
+http://fuas.sonymobile.com/fuas/services/updates?clientName=PCC&clientVersion=3.0&lang=en-GB&model=C6833&tac_mc=35808005&swId=1274-7565&swVer=14.2.A.0.290&fsVariant=EURO-LTE&cdfVer=R3B&buildVariant=USER&clientCertType=live&updateFormat=delta,image&channel=cable&cdfId=
+http://fuas.sonymobile.com/fuas/services/updates?clientName=PCC&clientVersion=3.0&lang=en-US&model=SOL24&tac_mc=35184906&swId=1274-7565&swVer=14.1.K.1.217&fsVariant=KDDI&cdfId=1278-7984&cdfVer=R11A&buildVariant=USER&clientCertType=live&updateFormat=delta,image&channel=cable

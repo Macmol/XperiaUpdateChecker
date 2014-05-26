@@ -1,0 +1,1 @@
+http://fuas.sonymobile.com/fuas/services/updates?clientName=PCC&clientVersion=3.0&lang=en-US&model=C6843&tac_mc=35893405&swId=1277-0849&swVer=14.1.B.0.461&fsVariant=LTE&cdfId=1277-0849&cdfVer=R0A&buildVariant=USER&clientCertType=live&updateFormat=delta,image&channel=cable

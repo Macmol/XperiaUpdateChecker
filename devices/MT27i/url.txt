@@ -1,0 +1,1 @@
+http://fuas.sonymobile.com/fuas/services/updates?clientName=PCC&clientVersion=3.0&lang=es-MX&model=MT27i&tac_mc=35226405&swId=1254-4241&swVer=6.0.B.3.184&fsVariant=WORLD&cdfId=1261-7819&cdfVer=R7E&buildVariant=USER&clientCertType=live&updateFormat=delta,image&channel=cable

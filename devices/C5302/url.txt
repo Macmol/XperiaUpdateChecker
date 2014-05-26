@@ -1,0 +1,1 @@
+http://fuas.sonymobile.com/fuas/services/updates?clientName=PCC&clientVersion=3.0&lang=en-US&model=C5302&tac_mc=35581005&swId=1269-3538&swVer=12.0.A.2.254&fsVariant=INDIA-HSPA&cdfVer=R8A&buildVariant=USER&clientCertType=live&updateFormat=delta,image&channel=cable&cdfId=

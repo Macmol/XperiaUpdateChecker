@@ -1,0 +1,1 @@
+http://fuas.sonymobile.com/fuas/services/updates?clientName=PCC&clientVersion=3.0&lang=ru-RU&model=SGP321&tac_mc=35712305&swId=1271-4097&swVer=10.4.B.0.569&fsVariant=GLOBAL-LTE&cdfVer=R1C&buildVariant=USER&clientCertType=live&updateFormat=delta,image&channel=cable&cdfId=

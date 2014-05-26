@@ -1,0 +1,1 @@
+http://fuas.sonymobile.com/fuas/services/updates?clientName=PCC&clientVersion=3.0&lang=en-US&model=C6616&tac_mc=01370100&swId=1269-5309&swVer=10.1.1.A.1.319&fsVariant=BELL-LTE&cdfVer=R2A&buildVariant=USER&clientCertType=live&updateFormat=delta,image&channel=cable&cdfId=

@@ -1,0 +1,2 @@
+http://fuas.sonymobile.com/fuas/services/updates?clientName=PCC&clientVersion=3.0&lang=es-MX&model=C5306&tac_mc=35715705&swId=1269-3538&swVer=12.0.A.2.245&fsVariant=AMERICAS-LTE&cdfVer=R7A&buildVariant=USER&clientCertType=live&updateFormat=delta,image&channel=cable&cdfId=
+http://fuas.sonymobile.com/fuas/services/updates?clientName=PCC&clientVersion=3.0&lang=fr-CA&model=C5306&tac_mc=35715705&swId=1269-3538&swVer=12.0.A.1.284&fsVariant=BELL-LTE&cdfId=1275-0760&cdfVer=R4A&buildVariant=USER&clientCertType=live&updateFormat=delta,image&channel=cable
